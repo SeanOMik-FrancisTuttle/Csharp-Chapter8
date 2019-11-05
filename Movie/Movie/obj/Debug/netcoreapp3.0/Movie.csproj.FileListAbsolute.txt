@@ -1,0 +1,11 @@
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter8\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.exe
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter8\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.deps.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter8\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.runtimeconfig.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter8\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.runtimeconfig.dev.json
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter8\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter8\Movie\Movie\bin\Debug\netcoreapp3.0\Movie.pdb
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter8\Movie\Movie\obj\Debug\netcoreapp3.0\Movie.csprojAssemblyReference.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter8\Movie\Movie\obj\Debug\netcoreapp3.0\Movie.AssemblyInfoInputs.cache
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter8\Movie\Movie\obj\Debug\netcoreapp3.0\Movie.AssemblyInfo.cs
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter8\Movie\Movie\obj\Debug\netcoreapp3.0\Movie.dll
+\\FRANCISTUTTLE.EDU\Home\Student\IT\se1028304\My Documents\C#\Csharp-Chapter8\Movie\Movie\obj\Debug\netcoreapp3.0\Movie.pdb

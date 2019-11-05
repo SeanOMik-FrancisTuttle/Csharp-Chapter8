@@ -1,0 +1,11 @@
+C:\Users\se1028304\Desktop\C#\Csharp-Chapter8\Reverse4\Reverse4\obj\Debug\netcoreapp3.0\Reverse4.csprojAssemblyReference.cache
+C:\Users\se1028304\Desktop\C#\Csharp-Chapter8\Reverse4\Reverse4\obj\Debug\netcoreapp3.0\Reverse4.AssemblyInfoInputs.cache
+C:\Users\se1028304\Desktop\C#\Csharp-Chapter8\Reverse4\Reverse4\obj\Debug\netcoreapp3.0\Reverse4.AssemblyInfo.cs
+C:\Users\se1028304\Desktop\C#\Csharp-Chapter8\Reverse4\Reverse4\bin\Debug\netcoreapp3.0\Reverse4.exe
+C:\Users\se1028304\Desktop\C#\Csharp-Chapter8\Reverse4\Reverse4\bin\Debug\netcoreapp3.0\Reverse4.deps.json
+C:\Users\se1028304\Desktop\C#\Csharp-Chapter8\Reverse4\Reverse4\bin\Debug\netcoreapp3.0\Reverse4.runtimeconfig.json
+C:\Users\se1028304\Desktop\C#\Csharp-Chapter8\Reverse4\Reverse4\bin\Debug\netcoreapp3.0\Reverse4.runtimeconfig.dev.json
+C:\Users\se1028304\Desktop\C#\Csharp-Chapter8\Reverse4\Reverse4\bin\Debug\netcoreapp3.0\Reverse4.dll
+C:\Users\se1028304\Desktop\C#\Csharp-Chapter8\Reverse4\Reverse4\bin\Debug\netcoreapp3.0\Reverse4.pdb
+C:\Users\se1028304\Desktop\C#\Csharp-Chapter8\Reverse4\Reverse4\obj\Debug\netcoreapp3.0\Reverse4.dll
+C:\Users\se1028304\Desktop\C#\Csharp-Chapter8\Reverse4\Reverse4\obj\Debug\netcoreapp3.0\Reverse4.pdb
