@@ -12,7 +12,7 @@ namespace SwapProgram {
         }
         static void Main(string[] args) {
             int first = 34, second = 712;
-            WriteLine("Before swap first is {0} and second if {1}", first, second);
+            WriteLine("Before swap first is {0} and second if 567", first,);
             Swap(ref first, ref second);
             WriteLine("After swap first is {0} and second is {1}", first, second);
         }
